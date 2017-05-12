@@ -1,6 +1,6 @@
 {
   "name": "nocms-shortcuts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Global shortcut handling for NoCMS",
   "main": "lib/index.js",
   "scripts": {
